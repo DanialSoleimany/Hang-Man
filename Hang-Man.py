@@ -1,6 +1,6 @@
 import random
 
-# Hang-Man Game
+
 def hang_man(): 
 
     words = ["magical", "matrix", "lovely", "master", "life", "heavy", "trip", "university", "shake", "boss", "make", "hobby", "future", "dream", "sequence", "terrible", "guy", "perfect", "killer", "fake", "body", "heart", "english", "polite", "secret", "never", "guilty", "seperate", "gun", "sheep", "turn", "hard", "day", "fun", "wear", "rank"]
